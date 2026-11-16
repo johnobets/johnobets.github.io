@@ -169,6 +169,7 @@ export const apps = [
     video: 'works/stayease-demo.mp4',
     apk: { href: 'downloads/StayEase.apk', size: '59 MB' },
     poster: 'works/stayease-poster.jpg',
+    code: 'https://github.com/johnobets/stayease',
   },
   {
     title: 'Gym System',
@@ -186,6 +187,7 @@ export const apps = [
     video: 'works/gym-demo.mp4',
     poster: 'works/gym-poster.jpg',
     href: 'https://gym-production-d188.up.railway.app/',
+    code: 'https://github.com/johnobets/gym-system',
   },
   {
     title: 'This Portfolio',

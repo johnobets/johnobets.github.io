@@ -635,6 +635,11 @@ function AppFeature({ app }) {
               <ArrowUpRight size={18} weight="bold" /> Open live demo
             </a>
           )}
+          {app.code && (
+            <a href={app.code} target="_blank" rel="noreferrer" className="mt-4 flex w-fit items-center gap-2 text-sm font-semibold text-accent hover:underline">
+              <GithubLogo size={18} weight="bold" /> View code on GitHub
+            </a>
+          )}
         </div>
         <ul className="self-center">
           {app.features.map((f) => (
