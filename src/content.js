@@ -11,7 +11,7 @@ export const profile = {
   portrait: 'me.webp',
   email: 'johnobetolchondra47@gmail.com',
   facebook: 'https://www.facebook.com/obt.johnny',
-  github: 'https://github.com/johnobet',
+  github: 'https://github.com/johnobets',
   school: 'Bohol Island State University, Candijay Campus',
 }
 
@@ -194,7 +194,7 @@ export const apps = [
     year: '2026',
     blurb: 'The site you are on. Designed and built from scratch, with a light and dark theme and motion throughout.',
     tags: ['React', 'Tailwind CSS', 'Motion', 'Vite'],
-    href: 'https://github.com/johnobet/johnobet.github.io',
+    href: 'https://github.com/johnobets/johnobets.github.io',
   },
 ]
 
